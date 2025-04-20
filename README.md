@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-**jihyo0331/jihyo0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My CodersRank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jihyo0331)](https://profile.codersrank.io/user/jihyo0331)
 
 Here are some ideas to get you started:
 
