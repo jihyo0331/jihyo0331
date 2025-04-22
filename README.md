@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/jihyo0331">
-    <img src="https://github-readme-stats.vercel.app/api?username=jihyo0331&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jihyo0331&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jihyo0331&theme=dark&no-frame=true" alt="Trophy" />
 </p>
