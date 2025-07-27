@@ -7,5 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jihyo0331&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
     
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jihyo0331&theme=dark&no-frame=true" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
 </p>
